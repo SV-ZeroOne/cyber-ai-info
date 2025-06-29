@@ -3,9 +3,9 @@
 > A curated collection of cybersecurity and AI/LLM resources automatically captured and organized.
 
 ## 📊 Quick Stats
-- **Total Links**: 0
+- **Total Links**: 1
 - **Last Updated**: 2024-01-20
-- **Most Recent Addition**: -
+- **Most Recent Addition**: 2025-06-01
 
 ---
 
@@ -49,7 +49,7 @@
 | Date | Title | URL | Source | Impact | Tags | Summary |
 |------|-------|-----|--------|--------|------|---------|
 | 2024-01-20 | Major Ransomware Campaign | https://news.com | SecurityWeek | High | ransomware, healthcare | New ransomware variant targeting... |
-| | | | | | | |
+| 2025-06-01 | OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors | https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html | The Hacker News | Critical | malware, energy sector | OneClik malware is leveraging Microsoft's ClickOnce technology and Golang backdoors to compromise systems within the energy sector. |
 
 ---
 
@@ -139,6 +139,10 @@
 
 ### All Links (Newest First)
 ```
+[2025-06-01] 🟠 OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors
+https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html
+Tags: malware, energy sector, critical
+
 [2024-01-20] 🔴 Critical CVE-2024-0001 - Windows RCE Vulnerability
 https://example.com/cve-2024-0001
 Tags: windows, rce, critical
