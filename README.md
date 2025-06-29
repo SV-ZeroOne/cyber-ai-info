@@ -3,8 +3,8 @@
 > A curated collection of cybersecurity and AI/LLM resources automatically captured and organized.
 
 ## 📊 Quick Stats
-- **Total Links**: 1
-- **Last Updated**: 2024-01-20
+- **Total Links**: 2
+- **Last Updated**: 2025-06-01
 - **Most Recent Addition**: 2025-06-01
 
 ---
@@ -31,7 +31,7 @@
 | Date | Title | URL | Type | Platform | License | Summary |
 |------|-------|-----|------|----------|---------|---------|
 | 2024-01-20 | Example Security Scanner | https://github.com/... | Scanner | Cross-platform | MIT | Automated vulnerability scanner for... |
-| | | | | | | |
+| 2025-06-01 | Mimikatz | https://github.com/gentilkiwi/mimikatz | Security Tool | Windows | CC BY 4.0 | A tool to experiment with Windows security by extracting credentials like plaintext passwords and kerberos tickets from memory. |
 
 ---
 
@@ -142,6 +142,10 @@
 [2025-06-01] 🟠 OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors
 https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html
 Tags: malware, energy sector, critical
+
+[2025-06-01] 🔵 Mimikatz Security Tool - A tool to experiment with Windows security 
+https://github.com/gentilkiwi/mimikatz
+Tags: tool, security, Windows
 
 [2024-01-20] 🔴 Critical CVE-2024-0001 - Windows RCE Vulnerability
 https://example.com/cve-2024-0001
